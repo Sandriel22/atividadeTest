@@ -1,0 +1,22 @@
+{
+  "name": "atividadetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandriel22/atividadeTest.git"
+  },
+  "author": "Sandriel Soares de Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandriel22/atividadeTest/issues"
+  },
+  "homepage": "https://github.com/Sandriel22/atividadeTest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
